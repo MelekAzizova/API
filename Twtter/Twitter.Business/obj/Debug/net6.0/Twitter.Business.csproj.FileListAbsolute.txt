@@ -1,0 +1,17 @@
+C:\Users\birinci novbe\Desktop\Twtter\Twitter.Business\bin\Debug\net6.0\Twitter.Business.deps.json
+C:\Users\birinci novbe\Desktop\Twtter\Twitter.Business\bin\Debug\net6.0\Twitter.Business.dll
+C:\Users\birinci novbe\Desktop\Twtter\Twitter.Business\bin\Debug\net6.0\Twitter.Business.pdb
+C:\Users\birinci novbe\Desktop\Twtter\Twitter.Business\bin\Debug\net6.0\Twitter.Core.dll
+C:\Users\birinci novbe\Desktop\Twtter\Twitter.Business\bin\Debug\net6.0\Twitter.DAL.dll
+C:\Users\birinci novbe\Desktop\Twtter\Twitter.Business\bin\Debug\net6.0\Twitter.DAL.pdb
+C:\Users\birinci novbe\Desktop\Twtter\Twitter.Business\bin\Debug\net6.0\Twitter.Core.pdb
+C:\Users\birinci novbe\Desktop\Twtter\Twitter.Business\obj\Debug\net6.0\Twitter.Business.csproj.AssemblyReference.cache
+C:\Users\birinci novbe\Desktop\Twtter\Twitter.Business\obj\Debug\net6.0\Twitter.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\birinci novbe\Desktop\Twtter\Twitter.Business\obj\Debug\net6.0\Twitter.Business.AssemblyInfoInputs.cache
+C:\Users\birinci novbe\Desktop\Twtter\Twitter.Business\obj\Debug\net6.0\Twitter.Business.AssemblyInfo.cs
+C:\Users\birinci novbe\Desktop\Twtter\Twitter.Business\obj\Debug\net6.0\Twitter.Business.csproj.CoreCompileInputs.cache
+C:\Users\birinci novbe\Desktop\Twtter\Twitter.Business\obj\Debug\net6.0\Twitter.Business.csproj.CopyComplete
+C:\Users\birinci novbe\Desktop\Twtter\Twitter.Business\obj\Debug\net6.0\Twitter.Business.dll
+C:\Users\birinci novbe\Desktop\Twtter\Twitter.Business\obj\Debug\net6.0\refint\Twitter.Business.dll
+C:\Users\birinci novbe\Desktop\Twtter\Twitter.Business\obj\Debug\net6.0\Twitter.Business.pdb
+C:\Users\birinci novbe\Desktop\Twtter\Twitter.Business\obj\Debug\net6.0\ref\Twitter.Business.dll
