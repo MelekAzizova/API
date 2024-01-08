@@ -10,3 +10,16 @@ C:\Users\birinci novbe\Desktop\Twtter\Twitter.Core\obj\Debug\net6.0\Twitter.Core
 C:\Users\birinci novbe\Desktop\Twtter\Twitter.Core\obj\Debug\net6.0\refint\Twitter.Core.dll
 C:\Users\birinci novbe\Desktop\Twtter\Twitter.Core\obj\Debug\net6.0\Twitter.Core.pdb
 C:\Users\birinci novbe\Desktop\Twtter\Twitter.Core\obj\Debug\net6.0\ref\Twitter.Core.dll
+C:\Users\birinci novbe\Desktop\API\Twtter\Twitter.Core\bin\Debug\net6.0\Twitter.Core.deps.json
+C:\Users\birinci novbe\Desktop\API\Twtter\Twitter.Core\bin\Debug\net6.0\Twitter.Core.dll
+C:\Users\birinci novbe\Desktop\API\Twtter\Twitter.Core\bin\Debug\net6.0\Twitter.Core.pdb
+C:\Users\birinci novbe\Desktop\API\Twtter\Twitter.Core\obj\Debug\net6.0\Twitter.Core.csproj.AssemblyReference.cache
+C:\Users\birinci novbe\Desktop\API\Twtter\Twitter.Core\obj\Debug\net6.0\Twitter.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\birinci novbe\Desktop\API\Twtter\Twitter.Core\obj\Debug\net6.0\Twitter.Core.AssemblyInfoInputs.cache
+C:\Users\birinci novbe\Desktop\API\Twtter\Twitter.Core\obj\Debug\net6.0\Twitter.Core.AssemblyInfo.cs
+C:\Users\birinci novbe\Desktop\API\Twtter\Twitter.Core\obj\Debug\net6.0\Twitter.Core.csproj.CoreCompileInputs.cache
+C:\Users\birinci novbe\Desktop\API\Twtter\Twitter.Core\obj\Debug\net6.0\Twitter.Core.sourcelink.json
+C:\Users\birinci novbe\Desktop\API\Twtter\Twitter.Core\obj\Debug\net6.0\Twitter.Core.dll
+C:\Users\birinci novbe\Desktop\API\Twtter\Twitter.Core\obj\Debug\net6.0\refint\Twitter.Core.dll
+C:\Users\birinci novbe\Desktop\API\Twtter\Twitter.Core\obj\Debug\net6.0\Twitter.Core.pdb
+C:\Users\birinci novbe\Desktop\API\Twtter\Twitter.Core\obj\Debug\net6.0\ref\Twitter.Core.dll

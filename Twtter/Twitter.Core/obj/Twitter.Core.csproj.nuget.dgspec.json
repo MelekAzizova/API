@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\birinci novbe\\Desktop\\Twtter\\Twitter.Core\\Twitter.Core.csproj": {}
+    "C:\\Users\\birinci novbe\\Desktop\\API\\Twtter\\Twitter.Core\\Twitter.Core.csproj": {}
   },
   "projects": {
-    "C:\\Users\\birinci novbe\\Desktop\\Twtter\\Twitter.Core\\Twitter.Core.csproj": {
+    "C:\\Users\\birinci novbe\\Desktop\\API\\Twtter\\Twitter.Core\\Twitter.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\birinci novbe\\Desktop\\Twtter\\Twitter.Core\\Twitter.Core.csproj",
+        "projectUniqueName": "C:\\Users\\birinci novbe\\Desktop\\API\\Twtter\\Twitter.Core\\Twitter.Core.csproj",
         "projectName": "Twitter.Core",
-        "projectPath": "C:\\Users\\birinci novbe\\Desktop\\Twtter\\Twitter.Core\\Twitter.Core.csproj",
+        "projectPath": "C:\\Users\\birinci novbe\\Desktop\\API\\Twtter\\Twitter.Core\\Twitter.Core.csproj",
         "packagesPath": "C:\\Users\\birinci novbe\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\birinci novbe\\Desktop\\Twtter\\Twitter.Core\\obj\\",
+        "outputPath": "C:\\Users\\birinci novbe\\Desktop\\API\\Twtter\\Twitter.Core\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\birinci novbe\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,7 +40,15 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
             "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.25, )"
+            },
+            "Microsoft.Extensions.Identity.Core": {
               "target": "Package",
               "version": "[6.0.25, )"
             }
